@@ -1,0 +1,9 @@
+F:\Workouts\Browsdemics\Browsdemics.BAL\bin\Debug\Browsdemics.BAL.dll
+F:\Workouts\Browsdemics\Browsdemics.BAL\bin\Debug\Browsdemics.BAL.pdb
+F:\Workouts\Browsdemics\Browsdemics.BAL\bin\Debug\Browsdemics.DAL.dll
+F:\Workouts\Browsdemics\Browsdemics.BAL\bin\Debug\Browsdemics.DAL.pdb
+F:\Workouts\Browsdemics\Browsdemics.BAL\obj\Debug\Browsdemics.BAL.csprojAssemblyReference.cache
+F:\Workouts\Browsdemics\Browsdemics.BAL\obj\Debug\Browsdemics.BAL.csproj.CoreCompileInputs.cache
+F:\Workouts\Browsdemics\Browsdemics.BAL\obj\Debug\Browsdemics.BAL.csproj.CopyComplete
+F:\Workouts\Browsdemics\Browsdemics.BAL\obj\Debug\Browsdemics.BAL.dll
+F:\Workouts\Browsdemics\Browsdemics.BAL\obj\Debug\Browsdemics.BAL.pdb

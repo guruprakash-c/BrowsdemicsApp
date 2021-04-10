@@ -1,0 +1,5 @@
+F:\Workouts\Browsdemics\Browsdemics.DAL\bin\Release\Browsdemics.DAL.dll
+F:\Workouts\Browsdemics\Browsdemics.DAL\bin\Release\Browsdemics.DAL.pdb
+F:\Workouts\Browsdemics\Browsdemics.DAL\obj\Release\Browsdemics.DAL.csproj.CoreCompileInputs.cache
+F:\Workouts\Browsdemics\Browsdemics.DAL\obj\Release\Browsdemics.DAL.dll
+F:\Workouts\Browsdemics\Browsdemics.DAL\obj\Release\Browsdemics.DAL.pdb

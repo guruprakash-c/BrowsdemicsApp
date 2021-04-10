@@ -1,0 +1,10 @@
+F:\Workouts\Browsdemics\Browsdemics\Browsdemics.DAL\bin\Debug\Browsdemics.DAL.dll
+F:\Workouts\Browsdemics\Browsdemics\Browsdemics.DAL\bin\Debug\Browsdemics.DAL.pdb
+F:\Workouts\Browsdemics\Browsdemics\Browsdemics.DAL\obj\Debug\Browsdemics.DAL.csproj.CoreCompileInputs.cache
+F:\Workouts\Browsdemics\Browsdemics\Browsdemics.DAL\obj\Debug\Browsdemics.DAL.dll
+F:\Workouts\Browsdemics\Browsdemics\Browsdemics.DAL\obj\Debug\Browsdemics.DAL.pdb
+F:\Workouts\Browsdemics\Browsdemics.DAL\bin\Debug\Browsdemics.DAL.dll
+F:\Workouts\Browsdemics\Browsdemics.DAL\bin\Debug\Browsdemics.DAL.pdb
+F:\Workouts\Browsdemics\Browsdemics.DAL\obj\Debug\Browsdemics.DAL.csproj.CoreCompileInputs.cache
+F:\Workouts\Browsdemics\Browsdemics.DAL\obj\Debug\Browsdemics.DAL.dll
+F:\Workouts\Browsdemics\Browsdemics.DAL\obj\Debug\Browsdemics.DAL.pdb
