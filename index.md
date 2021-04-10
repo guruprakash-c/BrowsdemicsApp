@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# BrowsdemicsSync v1.0.0
 
-You can use the [editor on GitHub](https://github.com/guruprakash-c/BrowsdemicsApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Let's add some notes for review.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guruprakash-c/BrowsdemicsApp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Software tool to fetch articles from most popular news websites and push to our Browsdemics server.
+### ================================== W O R K F L O W ====================================================
+1 - Configuration Management
+	i. API/Service Provider Registeration
+		i.a. Store access key
+	ii. API/Service Endpoints
+		ii.a. Input Paramaters
+		ii.b. HTTP State(GET,POST, etc.,)
+2 - User Management
+	i. User Account Registration
+		i.a. Once account can be registered with multiple API/Service Providers.
+	ii. Authentication & Authorization
+3 - Article Management
+	i. Each API/Service Provider has a separate window(if all has common parameter names then neglect separate windows, instead use cascading).
+		i.a. Select the API/Service Provider
+		i.b. Auto-bind Endpoint URL, parameters and HTTP States.
+		i.c. Submit
+	ii. API/Service Provider Response
+		ii.a. Successful response
+			ii.a.1. Fetch the response objects from DB and bind to a CheckBox list
+			ii.a.2. Manual verification
+				ii.a.2.i. Correct the missing/mistakes and change the status of the selected Article.
+			ii.a.3. In a new window(Staging Window)
+				ii.a.3.i. Push to Browsdemics Server.(**STOP**).	
+		ii.b. Failure response 
+			ii.b.1. Collect the failed endpoints to a SQL table
+			ii.b.2. Manual verification
+				ii.b.2.i. Correct the mistakes and restart the service.
+	iii. Display elements
+		iii.a. API/Service Provider List (all users)
+			iii.a.1. Endpoint details only for the Administrator.
+		iii.b. User List
+		iii.c. Article List 
+			iii.c.1. Specific to user account(if the logged in user is administrator then he/she has privilege to view all articles).
