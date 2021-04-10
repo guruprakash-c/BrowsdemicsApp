@@ -1,4 +1,7 @@
 # BrowsdemicsApp
+
+Let's add some notes for review.
+
 Software tool to fetch articles from most popular news websites and push to our Browsdemics server.
 ================================== W O R K F L O W ====================================================
 1 - Configuration Management
