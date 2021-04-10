@@ -4,6 +4,10 @@
 
 ### Software tool to fetch articles from most popular news websites and push to our Browsdemics server.
 ### ================================== W O R K F L O W ====================================================
+
+
+
+```c#
 1 - Configuration Management
 	i. API/Service Provider Registeration
 		i.a. Store access key
@@ -36,3 +40,4 @@
 		iii.b. User List
 		iii.c. Article List 
 			iii.c.1. Specific to user account(if the logged in user is administrator then he/she has privilege to view all articles).
+```
